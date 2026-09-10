@@ -2,7 +2,7 @@
 Taller de bases de datos
 
 ## Descripción del Proyecto
-Este repositorio tiene como objetivo almacenar y gestionar todos los scripts, modelos relacionales y prácticas desarrolladas durante la materia de Taller de Bases de Datos. El enfoque principal es la aplicación práctica de lenguajes SQL (DDL, DML, DCL, TCL) en la creación, manipulación y administración de Sistemas de Gestión de Bases de Datos (SGBD).
+Este repositorio tiene como objetivo almacenar y gestionar todos las prácticas desarrolladas durante la materia de Taller de Bases de Datos. El enfoque principal es la manipulación y administración de Sistemas de Gestión de Bases de Datos (SGBD).
 
 ## Autor
 - **Nombre del estudiante:** Brayan Alejandro Zazueta Salazar
